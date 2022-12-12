@@ -1,0 +1,43 @@
+@charset "UTF-8";
+.header_rule  {
+    display: block;
+    width: 100%;
+}
+.navbar {
+    float: left;
+    width: 100%;
+    padding-top: 14px;
+    padding-left: 20px;
+    padding-bottom: 14px;
+    padding-right: 4px;
+    background-color: #6699CC;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: block;
+}
+.wrapper  {
+    margin-top: 49px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    padding-left: 14px;
+    padding-top: 14px;
+    padding-right: 14px;
+    padding-bottom: 14px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h1 {
+    color: #745657;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h2 {
+    color: #8E7272;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+footer  {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: small;
+    text-align: center;
+    color: #170F1A;
+    background-color: #886A6A;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
